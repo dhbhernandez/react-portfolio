@@ -5,6 +5,8 @@ import Learn from "./Learn";
 function Contact(props) {
   return (
     <div>
+      background-image: url ("/Images/Portafolio\ background\ 4.jpg")
+      
       <h1>Contact Page</h1>
       <p>
         Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis molestie urna.
