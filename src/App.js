@@ -6,11 +6,14 @@ import About from "./components/pages/About";
 import Portfolio from "./components/pages/Portfolio";
 import Contact from "./components/pages/Contact";
 import Footer from "./components/Footer";
+import img from "./images/bg2.jpg"
+import './App.css'
 
 function App() {
   return (
     <Router>
-      <div>
+      <div className="app" style={{backgroundImage:`url(${img})`}}>
+        
         <NavTabs />
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
