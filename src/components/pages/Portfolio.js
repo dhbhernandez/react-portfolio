@@ -14,21 +14,26 @@ function Portfolio() {
                     <div className="row">
                         <div className="col-12 col-sm-6 col-lg-4 col-xl-3 p-1 d-flex justify-content-center">
                             <a href="https://dhbhernandez.github.io/weatherDashBoard/">
+        <p className="wl container mb-5">Weather Dashboard</p>
                                 <img className="img-thumbnail" src={img} alt="Weather-Dashboard" />
                             </a>
                         </div>
                         <div className="col-12 col-sm-6 col-lg-4 col-xl-3 p-1 d-flex justify-content-center">
+                        
                             <a href="https://dhbhernandez.github.io/work-day-scheduler/">
-                                <img className="img-thumbnail" src={img2} alt="wortk-day-scheduler" />
+                            <p className="wl container mb-5">Work day scheduler</p>
+                                <img className="img-thumbnail" src={img2} alt="work-day-scheduler" />
                             </a>
                         </div>
                         <div className="col-12 col-sm-6 col-lg-4 col-xl-3 p-1 d-flex justify-content-center">
                             <a href="https://floating-thicket-44314.herokuapp.com/">
+                            <p className="wl container mb-5">Chat app</p>
                                 <img className="img-thumbnail" src={img3} alt="chat-app" />
                             </a>
                         </div>
                         <div className="col-12 col-sm-6 col-lg-4 col-xl-3 p-1 d-flex justify-content-center">
                             <a href="https://note-taker-diego.herokuapp.com/notes">
+                            <p className="wl container mb-5">Note taker</p>
                                 <img className="img-thumbnail" src={img4} alt="note-taker" />
                             </a>
                         </div>

@@ -26,7 +26,7 @@ function About() {
 
                 <p2>
                     If you are interested you can see my information 
-                    <a className="linkedin" href="https://dhbhernandez.github.io/responsive-portfolio/contact.html">Here</a>
+                    <a className="linkedin" href="https://dhbhernandez.github.io/responsive-portfolio/contact.html" target="_blank">Here</a>
                 </p2>
 
     </div>

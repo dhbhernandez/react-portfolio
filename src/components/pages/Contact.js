@@ -13,20 +13,20 @@ function Contact(props) {
                     <li><a class="btn btn-success m-1" href="https://github.com/dhbhernandez" target="_blank">
                             <i class="di-github"></i> | Github </a></li>
       
-                            <h2 class="mt-5">Leave a message:</h2>
+                            <h2 class="mt-5">Message me:</h2>
                     <hr />
                     <form>
                         <div class="form-group">
                             <label for="name">Name: </label>
-                            <input type="text" class="form-control" id="name" placeholder="Enter your name here..." />
+                            <input type="text" class="form-control" id="name" placeholder="Enter your name..." />
                         </div>
                         <div class="form-group">
                             <label for="email">Email: </label>
-                            <input type="email" class="form-control" id="email" placeholder="Enter your email here..." />
+                            <input type="email" class="form-control" id="email" placeholder="Enter your email..." />
                         </div>
                         <div class="form-group">
                             <label class="form-check-label" for="message">Message: </label>
-                            <textarea class="form-control" id="message" rows="5" placeholder="leave a message here..."></textarea>
+                            <textarea class="form-control" id="message" rows="5" placeholder="leave a message..."></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary float-right">Submit</button>
                     </form>
