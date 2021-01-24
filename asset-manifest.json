@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.64bbf284.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.53c65a86.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.53c65a86.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.7686de59.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.7686de59.js.map",
+    "static/js/2.8a885070.chunk.js": "/react-portfolio/static/js/2.8a885070.chunk.js",
+    "static/js/2.8a885070.chunk.js.map": "/react-portfolio/static/js/2.8a885070.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.64bbf284.chunk.css.map": "/react-portfolio/static/css/main.64bbf284.chunk.css.map",
+    "static/js/2.8a885070.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.8a885070.chunk.js.LICENSE.txt",
+    "static/media/bg2.f19d512e.jpg": "/react-portfolio/static/media/bg2.f19d512e.jpg",
+    "static/media/chat-app.22fe0d00.png": "/react-portfolio/static/media/chat-app.22fe0d00.png",
+    "static/media/me2.c6f45e66.jpeg": "/react-portfolio/static/media/me2.c6f45e66.jpeg",
+    "static/media/note-taker.0fba5b65.png": "/react-portfolio/static/media/note-taker.0fba5b65.png",
+    "static/media/wDashboard.96500967.png": "/react-portfolio/static/media/wDashboard.96500967.png",
+    "static/media/wds.0a039e5a.png": "/react-portfolio/static/media/wds.0a039e5a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7686de59.js",
+    "static/js/2.8a885070.chunk.js",
+    "static/css/main.64bbf284.chunk.css",
+    "static/js/main.53c65a86.chunk.js"
+  ]
+}

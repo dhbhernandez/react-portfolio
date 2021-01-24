@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,IACE,UACF,CAEA,KACE,cAAe,CACf,cAAe,CACf,eAAgB,CAChB,qBACF","file":"main.64bbf284.chunk.css","sourcesContent":[".wl {\n  color:white;\n}\n\n.app{\n  position: fixed;\n  min-width: 100%;\n  min-height: 100%;\n  background-size:cover;\n}"]}
